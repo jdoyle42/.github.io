@@ -1,0 +1,42 @@
+* {
+    font-family: "Autour One", ariel, sans-serif;
+}
+
+body {
+    background-color: rgb(228, 245, 245);
+}
+#burger-title {
+    text-align: center;
+    border: solid 5px black;
+    border-radius: 50px;
+    Border-color: black;
+    background-color: yellow
+}
+
+section {
+    text-align: center;
+    border: 5px dotted black;
+    margin: 0 auto;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    
+}
+h3 {
+    text-align: center;
+    background-color: gold;
+    width: 400px;
+    margin: 0 auto;
+}
+table {
+    width: 400px;
+    margin: 0 auto;
+    border: 5px solid gold;
+}
+td {
+    border-top: 3px solid gold;
+}
+li {
+    display: inline-block;
+}
